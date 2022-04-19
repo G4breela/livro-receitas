@@ -1,46 +1,33 @@
-# Bolo de morango :cake:
+# LASANHA DE CARNE MOÍDA
 
 ### Ingredientes
 
-- Massa::
-- 4 ovos
-- 1 xícara (chá) de água
-- 2 xícaras (chá) de açúcar
-- 2 xícaras (chá) de trigo
-- 1 colher cheia (sopa) fermento químico (Royal)
-- Recheio::
-- 1 lata de leite condensado
-- 2 latas de leite (usar a lata do leite condensado como medida)
-- 1 gema
-- 2 colheres (sopa) de maisena
-- 3 xícaras (chá) de morangos picados
-- Reservar uma parte do chantilly para usar no recheio
-- Cobertura::
-- 2 pacotes (50g) de pó para creme de chantilly ou outra marca se preferir
+- 500 g de massa de lasanha
+- 500 g de carne moída 
+- 2 caixas de creme de leite
+- 3 colheres de manteiga
+- 3 colheres de farinha de trigo
+- 500 g de presunto
+- 500 g de mussarela
+- sal a gosto
+- 2 copos de leite
+- 1 cebola ralada
+- 3 colheres de óleo
+- 1 caixa de molho de tomate
+- 3 dentes de alho amassados
+- 1 pacote de queijo ralado
 
 ### **Modo de Preparo**
 
-1. Bata na batedeira em velocidade máxima 4 gemas e uma xícara de água até espumar bem
-2. Adicione o açúcar e bata ate formar um creme
-3. Adicione a farinha de trigo passada pela peneira
-4.  Acrescente o fermento e bata em velocidade mínima
-5. Desligue a batedeira, acrescente 4 claras batidas em neve, mexendo delicadamente
-6. Despeje a massa em forma de desmontar, untada com margarina e forrada (só o fundo) com papel manteiga e untar novamente com a margarina sobre o papel (essa técnica faz com que o bolo fique macio e úmido)
-7. Assar em forno pré-aquecido a 180°, por cerca de 40 minutos, ou até dourar
-8. Recheio:
-9. Em uma panela levar ao fogo o leite condensado, leite, gema e maisena
-10. Mexendo sempre
-11. Quando começar a ferver baixar o fogo
-12. Cozinhar por 3 minutos
-13. Espere esfriar, acrescente os morangos picados
-14. Cobertura:
-15. Preparar o chantilly conforme instruções da embalagem
-16. Montagem:
-17.  Espere o bolo esfriar para desenformar
-18. Divida o bolo em 2 partes (se preferir, molhe o bolo com guaraná, ou outro de sua preferência)
-19.  Espalhe a cobertura sobre uma parte do bolo
-20.  Espalhe também uma parte do chantilly sobre o recheio (não esqueça que o chantilly deve ser o suficiente para a cobertura)
-21. Use uma espátula para espalhar o chantilly, e um saco de confeitar para decorar
-22. Se você não tiver o saco de confeitar para decorar, coloque o chantilly em um saquinho para freezer e faça um pequeno corte no fundo
-23.  Dá um bom efeito
-24. Levar para gelar
+1. **Lasanha:**
+2. Cozinhe a massa segundo as orientações do fabricante, despeje em um refratário com água gelada para não grudar e reserve.
+3. Molho à bolonhesa
+4. Refogue o alho, a cebola, a carne moída, o molho de tomate, deixe cozinhar por 3 minutos e reserve.
+5.  Molho branco
+6. Derreta a margarina, coloque as 3 colheres de farinha de trigo e mexa.
+7. Despeje o leite aos poucos e continue mexendo.
+8. Por último, coloque o creme de leite, mexa por 1 minuto e desligue o fogo.
+9. Montagem
+10. Despeje uma parte do molho à bolonhesa em um refratário, a metade da massa, a metade do presunto, a metade da mussarela, todo o molho branco e o restante da massa.
+11. Repita as camadas até a borda do recipiente.
+12. Finalize com o queijo ralado e leve ao forno alto (220° C), preaquecido, por cerca de 20 minutos.
