@@ -1,6 +1,6 @@
 # Livro de receitas! :man_cook:
 
-Olá! Bem vindo ao meu livro de receitas :wave: e primeiro projeto que realizei!
+Olá! Bem vindo ao meu livro de receitas e primeiro projeto que realizei! :wave:
 
 - Strogonoff de frango
 - Lasanha de carne moída
